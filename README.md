@@ -24,12 +24,12 @@ We used natural language processing to convert the data into a numeric represent
 
    NLP Steps Taken:
 
-     * Removing punctuation
-     * Converting text to lowercase
-     * Tokenization
-     * Removing stop words
-     * Stemming/Lemmatization
-     * Term frequency-inverse document frequency (TF-IDF) Vectorization
+   * Removing punctuation
+   * Converting text to lowercase
+   * Tokenization
+   * Removing stop words
+   * Stemming/Lemmatization
+   * Term frequency-inverse document frequency (TF-IDF) Vectorization
 
 3. Clustering
 
