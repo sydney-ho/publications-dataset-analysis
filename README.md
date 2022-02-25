@@ -20,14 +20,14 @@ After data preprocessing, exploratory data analysis was used to answer prelimina
 2. Natural Language Processing (NLP)
 We used natural language processing to convert the data into a numeric representation that would allow the computer to effectively analyze and process it.
 
- NLP Steps Taken:
+     NLP Steps Taken:
 
-   * Removing punctuation
-   * Converting text to lowercase
-   * Tokenization
-   * Removing stop words
-   * Stemming/Lemmatization
-   * Term frequency-inverse document frequency (TF-IDF) Vectorization
+       * Removing punctuation
+       * Converting text to lowercase
+       * Tokenization
+       * Removing stop words
+       * Stemming/Lemmatization
+       * Term frequency-inverse document frequency (TF-IDF) Vectorization
 
 3. Clustering
 After we obtained all the TF-IDF values of the words in the corpus, we clustered the data into four clusters using the K-Means algorithm. The clustering model grouped papers together based on words in their abstracts that had the most similarity. We constructed visualization that allowed us to view what were the most common words in each cluster.
