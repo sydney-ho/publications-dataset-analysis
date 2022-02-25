@@ -22,14 +22,14 @@ After data preprocessing, exploratory data analysis was used to answer prelimina
 
 We used natural language processing to convert the data into a numeric representation that would allow the computer to effectively analyze and process it.
 
-    NLP Steps Taken:
+   NLP Steps Taken:
 
-      * Removing punctuation
-      * Converting text to lowercase
-      * Tokenization
-      * Removing stop words
-      * Stemming/Lemmatization
-      * Term frequency-inverse document frequency (TF-IDF) Vectorization
+     * Removing punctuation
+     * Converting text to lowercase
+     * Tokenization
+     * Removing stop words
+     * Stemming/Lemmatization
+     * Term frequency-inverse document frequency (TF-IDF) Vectorization
 
 3. Clustering
 
